@@ -1,6 +1,6 @@
 {
-  "name": "Legacy Claude Hub",
-  "short_name": "Legacy Hub",
+  "name": "Legacy Agent Portal",
+  "short_name": "Agent Portal",
   "description": "The Legacy Real Estate Group team hub: skills, boards, portal links and trainings.",
   "start_url": "./",
   "scope": "./",
